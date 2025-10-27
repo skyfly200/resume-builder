@@ -1,0 +1,301 @@
+{
+  "person": {
+    "name": "Skyler B. Fly-Wilson",
+    "contact": {
+      "email": "skyler@skylerfly.com",
+      "phone": "+1-720-310-0607",
+      "website": "https://skylerfly.com",
+      "location": "Boulder, CO",
+      "links": [
+        "https://github.com/skyfly200",
+        "https://codepen.io/skyfly200",
+        "https://www.linkedin.com/in/skyler-fly-wilson-38870986",
+        "http://www.coloradocommunityradio.com/",
+        "http://www.nedernet.net/"
+      ]
+    },
+    "summary": "Full Stack Developer with 10 years of experience helping artists and producers reach global audiences through innovative tools and systems. Experienced in live events and business operations, creating seamless technical solutions that bring creative visions to life."
+  },
+  "roles": [
+    {
+      "id": "role-001",
+      "title": "Co-Founder & Systems Engineer",
+      "organization": "Colorado Community Radio Network",
+      "location": "Colorado, USA",
+      "startDate": "2012-09-01",
+      "endDate": null,
+      "responsibilities": [
+        "Deployed Icecast audio streaming servers on GCP with Docker.",
+        "Implemented automation improving uptime and reliability by 95%.",
+        "Lead content production, syndication, promotion, and training initiatives, growing community engagement.",
+        "Moved VPS providers, lowering server costs by 80%."
+      ],
+      "skillsUsed": [
+        "Node.js",
+        "Docker",
+        "GCP",
+        "Automation",
+        "Live Broadcasting",
+        "Express",
+        "MongoDB",
+        "React"
+      ],
+      "projectsLinked": [
+        "project-001"
+      ],
+      "achievements": [
+        "Improved uptime and reliability by 95%",
+        "Lowered server costs by 80%"
+      ]
+    },
+    {
+      "id": "role-002",
+      "title": "Smart Contract Developer",
+      "organization": "ArtBlocks",
+      "location": "Remote",
+      "startDate": "2020-03-01",
+      "endDate": null,
+      "responsibilities": [
+        "Developed smart contracts and on-chain random number generators for generative art projects.",
+        "Collaborated with executive, creative, and marketing teams to align technical solutions with project goals.",
+        "Crafted generative artwork using Solidity."
+      ],
+      "skillsUsed": [
+        "Solidity",
+        "Smart Contracts",
+        "Collaboration"
+      ],
+      "projectsLinked": [],
+      "achievements": [
+        "Protected the value of $1.4 billion in generative art sales"
+      ]
+    },
+    {
+      "id": "role-003",
+      "title": "Lead Web3 Systems Engineer",
+      "organization": "SOLIDS",
+      "location": "Remote",
+      "startDate": "2020-03-01",
+      "endDate": null,
+      "responsibilities": [
+        "Developed smart contracts and on-chain random number generators for generative NFT projects.",
+        "Collaborated with executive, creative, and marketing teams to align technical solutions with project goals.",
+        "Crafted generative artwork using Solidity."
+      ],
+      "skillsUsed": [
+        "Solidity",
+        "Smart Contracts",
+        "Collaboration",
+        "Serverless"
+      ],
+      "projectsLinked": [],
+      "achievements": [
+        "Protected the value of $1.4 billion in generative art sales"
+      ]
+    },
+    {
+      "id": "role-004",
+      "title": "Lead Web3 Systems Engineer",
+      "organization": "TinyBoxes",
+      "location": "Remote",
+      "startDate": "2020-03-01",
+      "endDate": null,
+      "responsibilities": [
+        "Developed smart contracts and on-chain random number generators for generative NFT projects.",
+        "Built serverless metadata APIs to simplify deployment of generative artwork.",
+        "Crafted generative artwork using SVG, JavaScript, and Solidity.",
+        "Collaborated with executive, creative, and marketing teams to align technical solutions with project goals."
+      ],
+      "skillsUsed": [
+        "Solidity",
+        "JavaScript",
+        "SVG",
+        "Serverless",
+        "Smart Contracts",
+        "API Development",
+        "Web3",
+        "Collaboration"
+      ],
+      "projectsLinked": [],
+      "achievements": [
+        "Protected the value of $1.4 billion in generative art sales"
+      ]
+    },
+    {
+      "id": "role-005",
+      "title": "Technician & Full Stack Developer",
+      "organization": "Nedernet",
+      "location": "Nederland, CO",
+      "startDate": "2017-06-01",
+      "endDate": "2018-05-01",
+      "responsibilities": [
+        "Built out WiFi networks with solar systems, bringing households in rural communities online.",
+        "Developed internal tools with React, Node.js, and SQL to monitor network quality metrics, leading to more informed upgrade plans.",
+        "Created automation scripts, reducing maintenance time by 99%.",
+        "Led efforts to improve network speed, security, and reliability through channel plans, regular updates, and hardware upgrades."
+      ],
+      "skillsUsed": [
+        "React",
+        "Node.js",
+        "SQL",
+        "Networking",
+        "Automation",
+        "Solar Power Systems",
+        "WiFi Infrastructure",
+        "Hardware Optimization"
+      ],
+      "projectsLinked": [],
+      "achievements": [
+        "Reduced maintenance time by 99%",
+        "Achieved a 75% reduction in customer service calls involving service quality"
+      ]
+    },
+    {
+      "id": "role-006",
+      "title": "Audio Engineer & Stage Manager",
+      "organization": "Live Sound Production",
+      "location": "Nederland, CO",
+      "startDate": "2017-03-01",
+      "endDate": "2018-03-01",
+      "responsibilities": [
+        "Produced and managed the Bacon Bourbon and Brews stage at Frozen Dead Guy Days festival, coordinating performances, scheduling, and stage operations.",
+        "Managed stage setup and monitor mixing at The Caribou Room, ensuring smooth, high-quality performances.",
+        "Handled on-site audio troubleshooting, ensuring reliable sound for multiple live acts under tight time constraints."
+      ],
+      "skillsUsed": [
+        "Audio Engineering",
+        "Stage Management",
+        "Live Production",
+        "Team Coordination",
+        "Troubleshooting",
+        "Event Logistics",
+        "Sound Mixing"
+      ],
+      "projectsLinked": [],
+      "achievements": [
+        "Delivered successful multi-day festival stage operations with no downtime",
+        "Improved stage turnaround efficiency through optimized setup and teardown workflows"
+      ]
+    },
+    {
+      "id": "role-007",
+      "title": "Full Stack Developer (Contract)",
+      "organization": "Yard Management Solutions",
+      "location": "Remote",
+      "startDate": "2016-12-01",
+      "endDate": "2017-04-01",
+      "responsibilities": [
+        "Led development of a web application to query and compute statistics from a production SQL database.",
+        "Built interactive data visualizations using PHP and Google's Visualization API.",
+        "Collaborated with remote teams to ensure reliable data access and performance in production environments."
+      ],
+      "skillsUsed": [
+        "PHP",
+        "SQL",
+        "Google Visualization API",
+        "Full Stack Development",
+        "Data Visualization",
+        "Remote Collaboration"
+      ],
+      "projectsLinked": [],
+      "achievements": [
+        "Delivered reliable visualization tools for live operational data",
+        "Enhanced decision-making capabilities through real-time analytics"
+      ]
+    },
+    {
+      "id": "role-008",
+      "title": "SysAdmin & Video Production (Contract)",
+      "organization": "Stream Learn",
+      "location": "Boulder, CO",
+      "startDate": "2015-12-01",
+      "endDate": "2016-07-01",
+      "responsibilities": [
+        "Deployed an Open edX Docker container on DigitalOcean and configured extensions and user accounts.",
+        "Optimized system stability and performance on a low-memory Debian server.",
+        "Produced and edited multi-camera educational video content using Sony Vegas.",
+        "Collaborated with educators and technical staff to integrate video content into the e-learning platform."
+      ],
+      "skillsUsed": [
+        "Docker",
+        "Open edX",
+        "DigitalOcean",
+        "Debian",
+        "System Administration",
+        "Video Production",
+        "Sony Vegas",
+        "Linux Server Optimization"
+      ],
+      "projectsLinked": [],
+      "achievements": [
+        "Successfully deployed a production-grade Open edX instance on resource-limited infrastructure",
+        "Improved server stability and performance for educational video streaming"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-001",
+      "title": "Radio Control System \u2014 Radio DJ Web Control Panel",
+      "description": "Built a web interface for Radio DJ software to control streams, manage playlists, and automate operations.",
+      "techStack": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "React",
+        "Webpack"
+      ],
+      "link": "https://github.com/skyfly200/Radio-Control-System",
+      "outcomes": [
+        "Enabled web-based control for Radio DJ software",
+        "Improved automation and reliability of community radio broadcasts"
+      ],
+      "rolesInvolved": [
+        "role-001"
+      ]
+    },
+    {
+      "id": "project-002",
+      "title": "SkylerFly.com \u2014 Portfolio Website",
+      "description": "A modern responsive personal portfolio site showcasing software, art, and live production work.",
+      "techStack": [
+        "Vue",
+        "Nuxt",
+        "Vuetify",
+        "Express",
+        "GCP",
+        "Netlify",
+        "CI/CD",
+        "GitHub"
+      ],
+      "link": "http://skylerfly.com/",
+      "outcomes": [
+        "Showcases full-stack projects and creative technology work",
+        "Implemented CI/CD pipeline for automated deployment via Netlify",
+        "Improved personal brand visibility and client outreach"
+      ],
+      "rolesInvolved": []
+    },
+    {
+      "id": "project-003",
+      "title": "Light Artwork \u2014 Networked Light Systems",
+      "description": "Interactive and generative light installations using networked microcontrollers, LEDs, and wireless connectivity.",
+      "techStack": [
+        "Arduino",
+        "CircuitPython",
+        "WiFi",
+        "Bluetooth",
+        "LEDs",
+        "EL Wire",
+        "Li-Po Batteries"
+      ],
+      "link": "https://github.com/skyfly200/MusicReactiveNeopixels",
+      "outcomes": [
+        "Created physical and app-based control interfaces for lighting installations",
+        "Integrated responsive light behaviors with sound and environmental input",
+        "Demonstrated innovative use of embedded systems in creative art contexts"
+      ],
+      "rolesInvolved": []
+    }
+  ]
+}
